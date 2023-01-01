@@ -4,4 +4,11 @@ Modelo feito seguindo orientações do canal no Youtube <a href="https://www.you
 <br>
 Projeto bacana para o aprendizado e/ou reforço de tags html e atributos css, além da boa pratica de organição de arquivos.
 
-![_E__Bruno_Programa%C3%A7%C3%A3o_Landing%20Pages_landing-pages_landing-page-v1_index html](https://user-images.githubusercontent.com/102771408/210155156-31a038ec-89b6-4d91-9f81-b2d01f383fbc.png)
+![landing-page-v1](https://user-images.githubusercontent.com/102771408/210160677-cb3ab555-0dd3-4e09-9a30-b2624ff744d3.png)
+
+
+## Modelo 2:
+Modelo feito seguindo orientações do canal no Youtube <a href="https://www.youtube.com/@rafaellaballerini">RaffaelaBallerini</a>.
+<br>
+Novamente utilizando somente html e css.
+![landing-page-v2](https://user-images.githubusercontent.com/102771408/210160675-fad0b83d-96b9-42cb-8d27-875164d0eadf.png)
